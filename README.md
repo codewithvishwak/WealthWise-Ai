@@ -1,6 +1,8 @@
 
 # WealthWise - Intelligent Expense Tracker
 
+![WealthWise AI Banner](WealthWise.jpg)
+
 A modern, AI-powered web application for managing personal finances and expense tracking with intelligent priority classification and insightful analytics.
 
 ## 🎯 Features
